@@ -1,1 +1,1 @@
-# My projects color palletes and image resources
+# My color palletes and image resources used in Kruceo projects
